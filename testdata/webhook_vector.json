@@ -1,0 +1,6 @@
+{
+  "secret": "test_webhook_secret_not_real_0000000000000000",
+  "body": "{\"event\":\"batch.completed\",\"timestamp\":\"2026-10-25T11:14:00.034056009+00:00\",\"data\":{\"batch_id\":\"2ba35fc9-a592-45b2-80f1-62f853253923\",\"convert_type\":\"html-to-pdf\",\"status\":\"completed\",\"total_items\":1,\"processed_items\":1,\"failed_items\":0}}",
+  "signature_header": "sha256=8c2553791143ca2df8a148172c2f2c13e8ffcaca421c65f70c9f35263bc10cff",
+  "event": "batch.completed"
+}
